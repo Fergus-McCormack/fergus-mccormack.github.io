@@ -66,9 +66,9 @@ export const site = {
     "Applied Microeconomics",
   ],
 
-  // Google Search Console: choose the "HTML tag" verification method and paste
-  // the content="..." value here, then commit. Leave empty until then.
-  googleSiteVerification: "",
+  // Google Search Console "HTML tag" verification (content="..." value). Keep it
+  // in place after verification succeeds, or the property becomes unverified.
+  googleSiteVerification: "PdB3VaVBqFuCBHpf3UAY4hmEfex3Fu1Y9A5m3XWZ2M0",
 
   // Top navigation (slug "" is the home page).
   nav: [

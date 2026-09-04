@@ -87,6 +87,7 @@ const config: QuartzConfig = {
       }),
       Plugin.Assets(), // copies PDFs and images from content/
       Plugin.Static(), // copies quartz/static/ (favicon, social image)
+      Plugin.RootFiles(), // copies root/ verbatim (search-engine verification files)
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
     ],

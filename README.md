@@ -56,11 +56,13 @@ What is already in place:
 
 Things only the site owner can do (each one strengthens ranking for a name search):
 
-1. **Google Search Console** (https://search.google.com/search-console): add the property
-   `https://fergus-mccormack.github.io/`, pick the *HTML tag* method, paste the `content`
-   value into `googleSiteVerification` in `quartz/site.ts`, push, then verify and submit
-   `https://fergus-mccormack.github.io/sitemap.xml`. Use *URL inspection -> Request indexing*
-   for the home page to speed up the first crawl.
+1. **Google Search Console** (https://search.google.com/search-console): the property
+   `https://fergus-mccormack.github.io/` is set up for both verification methods, the
+   HTML file (`root/google9ae8101f2d8a49c6.html`, served at the site root by the `RootFiles`
+   emitter) and the HTML tag (`googleSiteVerification` in `quartz/site.ts`). Keep both in
+   place after verifying. Then submit `https://fergus-mccormack.github.io/sitemap.xml` under
+   *Sitemaps* and use *URL inspection -> Request indexing* on the home page to speed up the
+   first crawl. Any other verification file (e.g. Bing's `BingSiteAuth.xml`) also goes in `root/`.
 2. **Link to the site from profiles Google already trusts**: the Faculty of Economics
    profile page (ask the Faculty web team to add the URL), LinkedIn (website field),
    Google Scholar (create a profile and set the homepage), ORCID, RePEc/IDEAS, ResearchGate,
