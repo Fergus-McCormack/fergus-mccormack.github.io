@@ -73,6 +73,36 @@ Things only the site owner can do (each one strengthens ranking for a name searc
 4. Add any new profile URLs to `sameAs` in `quartz/site.ts` so the structured data links
    them together.
 
+## Taking the site offline and back online
+
+GitHub Pages on a personal account is always public, so "private" means *unpublished*. The
+site was taken offline on 2026-09-04 by making the repository private (which unpublishes the
+site on the free plan) and disabling the deploy workflow. Old copies can linger in GitHub's
+CDN cache for up to 10 minutes.
+
+**Back online:**
+
+```bash
+gh repo edit Fergus-McCormack/fergus-mccormack.github.io --visibility public --accept-visibility-change-consequences
+gh api -X POST repos/Fergus-McCormack/fergus-mccormack.github.io/pages -f build_type=workflow   # "already exists" is fine
+gh workflow enable "Deploy site to GitHub Pages" --repo Fergus-McCormack/fergus-mccormack.github.io
+gh workflow run "Deploy site to GitHub Pages" --repo Fergus-McCormack/fergus-mccormack.github.io
+```
+
+Then check https://fergus-mccormack.github.io/ after about two minutes. Search Console
+re-verifies automatically once the verification file is being served again.
+
+**Offline again:**
+
+```bash
+gh workflow disable "Deploy site to GitHub Pages" --repo Fergus-McCormack/fergus-mccormack.github.io
+gh repo edit Fergus-McCormack/fergus-mccormack.github.io --visibility private --accept-visibility-change-consequences
+```
+
+(GitHub does not allow the Pages site of a `<username>.github.io` repository to be deleted
+directly; if the account is ever on a paid plan, where private repositories can still publish
+Pages, rename the repository instead.)
+
 ## Layout and styling
 
 - `quartz.config.ts`: site title, base URL, fonts, colours, plugins.
