@@ -88,10 +88,10 @@ export const site = {
       name: "The “Depression Trap”: Genetic Risk, Labor Supply, and the Case for Precision Psychiatry",
       authors: ["Fergus McCormack", "Qianyu Yang"],
       url: "https://fergus-mccormack.github.io/papers/McCormack_JMP_The_Depression_Trap.pdf",
-      date: "2026-08-31",
+      date: "2026-10-15",
       genre: "Job market paper",
       description:
-        "We analyze how genetic risk for depression influences the joint dynamics of labor supply, health, and treatment decisions using a life-cycle model and longitudinal data. We find that a one standard deviation increase in genetic risk for depression substantially reduces earnings and employment and worsens health. We identify the “depression trap”, a self-reinforcing cycle of depression and non-employment, as the central mechanism linking genetic risk to persistent labor market exit. As publicly funded psychotherapy is free at the point of use and supply-constrained, we evaluate prioritizing access to high-risk individuals, and find that this raises employment and lowers severe depression, resulting in a net fiscal surplus. We also simulate the economic and health consequences associated with recent declines in mental health and explore potential policy solutions.",
+        "Why is depression linked to persistent non-employment, and how can mental health care be better targeted to improve mental health and employment outcomes? Using longitudinal UK panel data, we provide evidence for the “depression trap”: a self-reinforcing cycle of poor mental health and non-employment, using event studies of depression recurrences and redundancies. Early treatment could disrupt this cycle, but it is challenging to predict who will enter the trap. We show that a Polygenic Index for depressive symptoms constructed using molecular genetics data is a uniquely powerful predictor of the depression trap and its persistence. We embed the depression trap mechanism in a structural life-cycle model of health, labor supply and treatment, and evaluate using genetics data to allocate treatment. We find that targeting therapy towards individuals with high genetic risk for depression improves the clinical efficacy of treatment by 29%. Furthermore, we estimate that by increasing employment through improved treatment allocation, the information provided by genetic risk generates a net fiscal surplus sufficient to finance the cost of universal genotyping.",
     },
     {
       name: "The Economic Cost of Depression: Triangulation Using Panel and Mendelian Randomization Analyses",
