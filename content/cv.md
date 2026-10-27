@@ -7,11 +7,11 @@ description: "Curriculum vitae of Fergus McCormack, PhD candidate in Economics a
 
 <p class="hero-actions"><a class="btn btn-primary" href="papers/McCormack_CV.pdf">Download CV (PDF)</a></p>
 
-The PDF is the authoritative version and includes contact details for my references. Last updated September 2026.
+The PDF is the authoritative version and includes contact details for my references. Last updated October 2026.
 
 ## Education
 
-<div class="cv-entry"><span><strong>University of Cambridge</strong>, PhD in Economics<span class="cv-sub">Advisors: Eric French and Weilong Zhang. Research visit at the University of Oslo (October–November 2025), hosted by <a href="https://www.sv.uio.no/psi/english/people/academic/eivindy/">Eivind Ystrøm</a>.</span></span><span class="cv-date">2022–present</span></div>
+<div class="cv-entry"><span><strong>University of Cambridge</strong>, PhD in Economics<span class="cv-sub">Advisors: Eric French and Weilong Zhang</span></span><span class="cv-date">2022–2027 (expected)</span></div>
 
 <div class="cv-entry"><span><strong>University of Cambridge</strong>, MPhil in Economic Research<span class="cv-sub">Distinction</span></span><span class="cv-date">2020–2021</span></div>
 
@@ -21,7 +21,7 @@ The PDF is the authoritative version and includes contact details for my referen
 
 ## Research Interests
 
-Health economics, labor economics, behavioral genetics, applied microeconomics.
+Health economics, labor economics, public economics, behavioral genetics, applied microeconomics.
 
 ## Research
 
@@ -29,26 +29,35 @@ My [job market paper](research#job-market-paper), working papers, and work in pr
 
 ## Scholarships and Awards
 
-<div class="cv-entry"><span>Mercatus Fellowship <span class="cv-sub">approx. £2,000</span></span><span class="cv-date">2026</span></div>
+<div class="cv-entry"><span>University of Cambridge Faculty Trust Funding Award <span class="cv-sub">£3,000</span></span><span class="cv-date">2026</span></div>
 <div class="cv-entry"><span>University of Cambridge Faculty Trust Funding Award <span class="cv-sub">£4,500</span></span><span class="cv-date">2025</span></div>
 <div class="cv-entry"><span>SHARE Foundation Egalitarian Capitalism Award <span class="cv-sub">£1,500</span></span><span class="cv-date">2025</span></div>
+<div class="cv-entry"><span>Arnold Ventures Travel Grant, Economics of Mental Health Workshop <span class="cv-sub">$500</span></span><span class="cv-date">2025</span></div>
 <div class="cv-entry"><span>ESRC Doctoral Training Programme Studentship <span class="cv-sub">approx. £85,000</span></span><span class="cv-date">2022–2025</span></div>
 <div class="cv-entry"><span>Forethought Fellowship <span class="cv-sub">£5,000</span></span><span class="cv-date">2022</span></div>
 <div class="cv-entry"><span>Open Philanthropy Early Career Funding <span class="cv-sub">£15,000</span></span><span class="cv-date">2022</span></div>
 <div class="cv-entry"><span>University of Edinburgh Prizes for Top Dissertations and Overall Performance <span class="cv-sub">£1,000</span></span><span class="cv-date">2020</span></div>
 <div class="cv-entry"><span>Japanese Government MEXT Undergraduate Studies Scholarship <span class="cv-sub">offered, approx. £65,000</span></span><span class="cv-date">2017</span></div>
 
-## Conferences and Seminars
+## Presentations
 
-**2026:** Cambridge Labor/Public Reading Group (×2); Cambridge Applied Micro PhD Workshop; European Social Science Genetics Network (ESSGN) Conference; LSE Wellbeing Seminar Series; CEPR Longevity and Ageing Conference; European Economic Association Meeting\*; Mental Health and the Labor Market\*; EDGE Jamboree\*; Annual Health Econometrics Workshop\*; UCL\*; USC CESR Seminar Series in Social Science Genetics\*. <span class="cv-sub">\* scheduled</span>
+**Invited seminars and workshops**
 
-**2025:** Cambridge Labor/Public Reading Group (×2); ESSGN Conference; LSE Wellbeing Seminar Series; Economics of Mental Health Workshop; University of Oslo (×2); Darwin College Social Science Seminar Series.
+**2026:** USC CESR Seminar Series in Social Science Genetics\*; UCL QSS and CLS Seminar Series; MiSoC Workshop on Mental Health and the Labour Market; LSE Wellbeing Seminar Series. <span class="cv-sub">\* scheduled</span>
 
-**2024:** Cambridge Public Health Showcase; ESSGN Conference; Cambridge Applied Micro PhD Workshop; Cambridge Labour/Public Reading Group.
+**2025:** University of Oslo PROMENTA (×2); LSE Wellbeing Seminar Series.
 
-**2023:** Cambridge Macroeconomics Reading Group; Cambridge PhD Macro Workshop; Cambridge Public Health Showcase.
+**Conferences and workshops**
 
-**2022:** Cambridge PhD Macroeconomics Workshop.
+**2026:** EEA-ESEM; CEPR Longevity and Ageing Conference; European Social Science Genetics Network (ESSGN) Conference; EDGE Jamboree; Annual Health Econometrics Workshop.
+
+**2025:** ESSGN Conference; Economics of Mental Health Workshop.
+
+**2024:** ESSGN Conference.
+
+**Cambridge:** Applied Micro PhD Workshop (2024, 2026); Labor/Public Reading Group (2024–26); PhD Macroeconomics Workshop (2022, 2023); Macroeconomics Reading Group (2023); Public Health Showcase (2023); Darwin College Social Science Seminar (2025).
+
+**Discussant:** Economics of Mental Health Workshop (2025, ×2); EDGE Jamboree (2026).
 
 ## Selected Professional Experience
 
