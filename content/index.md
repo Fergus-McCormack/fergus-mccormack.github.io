@@ -26,7 +26,7 @@ I am a PhD candidate in Economics at the [University of Cambridge](https://www.e
 
 My work combines structural life-cycle models with panel data methods and Mendelian randomization, drawing on UK household panel data (Understanding Society), the UK Biobank, and Norwegian administrative data linked to molecular genetic information.
 
-Before my PhD, I completed the MPhil in Economic Research at Cambridge and an MA in Economics at the University of Edinburgh, and I worked as a trainee at the European Central Bank. In autumn 2025 I was a visiting researcher at the University of Oslo, hosted by Eivind Ystrøm.
+Before my PhD, I completed the MPhil in Economic Research at Cambridge and an MA in Economics at the University of Edinburgh, and I worked as a trainee at the European Central Bank. In Autumn 2025 I was a visiting researcher at the University of Oslo, hosted by Eivind Ystrøm.
 
 ## Job Market Paper
 
