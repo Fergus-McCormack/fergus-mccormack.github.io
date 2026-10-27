@@ -26,7 +26,7 @@ I am a PhD candidate in Economics at the [University of Cambridge](https://www.e
 
 My work combines structural life-cycle models with panel data methods and Mendelian randomization, drawing on UK household panel data (Understanding Society), the UK Biobank, and Norwegian administrative data linked to molecular genetic information.
 
-Before my PhD, I completed the MPhil in Economic Research at Cambridge and an MA in Economics at the University of Edinburgh, and I worked as a trainee at the European Central Bank. In Autumn 2025 I was a visiting researcher at the University of Oslo, hosted by Eivind Ystrøm.
+Before my PhD, I completed the MPhil in Economic Research at Cambridge and an MA in Economics at the University of Edinburgh, and I worked as a trainee at the European Central Bank. In Autumn 2025 I was a visiting researcher at the University of Oslo, hosted by [Eivind Ystrøm](https://www.sv.uio.no/psi/english/people/academic/eivindy/).
 
 ## Job Market Paper
 
@@ -34,7 +34,7 @@ Before my PhD, I completed the MPhil in Economic Research at Cambridge and an MA
 
 ### [The “Depression Trap”: Genetic Risk, Labor Supply, and the Case for Precision Psychiatry](papers/McCormack_JMP_The_Depression_Trap.pdf)
 
-<p class="paper-meta">with Qianyu Yang &middot; <a href="papers/McCormack_JMP_The_Depression_Trap.pdf">Download PDF</a></p>
+<p class="paper-meta">with <a href="https://www.econ.cam.ac.uk/people/postgraduates/qianyu-yang">Qianyu Yang</a> &middot; <a href="papers/McCormack_JMP_The_Depression_Trap.pdf">Download PDF</a></p>
 
 <p class="paper-abstract">Why is depression linked to persistent non-employment, and how can mental health care be better targeted to improve mental health and employment outcomes? Using longitudinal UK panel data, we provide evidence for the “depression trap”: a self-reinforcing cycle of poor mental health and non-employment, using event studies of depression recurrences and redundancies. Early treatment could disrupt this cycle, but it is challenging to predict who will enter the trap. We show that a Polygenic Index for depressive symptoms constructed using molecular genetics data is a uniquely powerful predictor of the depression trap and its persistence. We embed the depression trap mechanism in a structural life-cycle model of health, labor supply and treatment, and evaluate using genetics data to allocate treatment. We find that targeting therapy towards individuals with high genetic risk for depression improves the clinical efficacy of treatment by 29%. Furthermore, we estimate that by increasing employment through improved treatment allocation, the information provided by genetic risk generates a net fiscal surplus sufficient to finance the cost of universal genotyping.</p>
 

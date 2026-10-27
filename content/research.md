@@ -13,7 +13,7 @@ My research studies how genetic risk for mental illness shapes economic outcomes
 
 ### [The “Depression Trap”: Genetic Risk, Labor Supply, and the Case for Precision Psychiatry](papers/McCormack_JMP_The_Depression_Trap.pdf)
 
-<p class="paper-meta">with Qianyu Yang &middot; <a href="papers/McCormack_JMP_The_Depression_Trap.pdf">Download PDF</a></p>
+<p class="paper-meta">with <a href="https://www.econ.cam.ac.uk/people/postgraduates/qianyu-yang">Qianyu Yang</a> &middot; <a href="papers/McCormack_JMP_The_Depression_Trap.pdf">Download PDF</a></p>
 
 <p class="paper-abstract">Why is depression linked to persistent non-employment, and how can mental health care be better targeted to improve mental health and employment outcomes? Using longitudinal UK panel data, we provide evidence for the “depression trap”: a self-reinforcing cycle of poor mental health and non-employment, using event studies of depression recurrences and redundancies. Early treatment could disrupt this cycle, but it is challenging to predict who will enter the trap. We show that a Polygenic Index for depressive symptoms constructed using molecular genetics data is a uniquely powerful predictor of the depression trap and its persistence. We embed the depression trap mechanism in a structural life-cycle model of health, labor supply and treatment, and evaluate using genetics data to allocate treatment. We find that targeting therapy towards individuals with high genetic risk for depression improves the clinical efficacy of treatment by 29%. Furthermore, we estimate that by increasing employment through improved treatment allocation, the information provided by genetic risk generates a net fiscal surplus sufficient to finance the cost of universal genotyping.</p>
 
@@ -25,7 +25,7 @@ My research studies how genetic risk for mental illness shapes economic outcomes
 
 ### [The Economic Cost of Depression: Triangulation Using Panel and Mendelian Randomization Analyses](papers/McCormack_Campbell_Woolf_Economic_Cost_of_Depression.pdf)
 
-<p class="paper-meta">with Robert Campbell and Benjamin Woolf &middot; <a href="papers/McCormack_Campbell_Woolf_Economic_Cost_of_Depression.pdf">Download PDF</a></p>
+<p class="paper-meta">with <a href="https://www.ndph.ox.ac.uk/team/robert-campbell">Robert Campbell</a> and <a href="https://www.bristol.ac.uk/people/person/Benjamin-Woolf-01b218b7-7fa9-475a-be66-39d19a06957b/">Benjamin Woolf</a> &middot; <a href="papers/McCormack_Campbell_Woolf_Economic_Cost_of_Depression.pdf">Download PDF</a></p>
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -38,7 +38,7 @@ My research studies how genetic risk for mental illness shapes economic outcomes
 
 ### Not All Made Equal? Genetics, Ageing and Wellbeing: Evidence from the UK
 
-<p class="paper-meta">with Alan Piper &middot; Draft available upon request</p>
+<p class="paper-meta">with <a href="https://business.leeds.ac.uk/faculty/staff/1465/dr-alan-piper">Alan Piper</a> &middot; Draft available upon request</p>
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -53,7 +53,7 @@ My research studies how genetic risk for mental illness shapes economic outcomes
 
 ### The Genetic Child Penalty: Evidence from the UK and Norway
 
-<p class="paper-meta">with Emil Sørensen, Stephanie von Hinke, and Eivind Ystrøm</p>
+<p class="paper-meta">with Emil Sørensen, <a href="https://www.bristol.ac.uk/person/Stephanie-von%20Hinke-a30410d8-92d8-4d82-b46a-4085a3e3a94a/">Stephanie von Hinke</a>, and <a href="https://www.sv.uio.no/psi/english/people/academic/eivindy/">Eivind Ystrøm</a></p>
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -66,7 +66,7 @@ My research studies how genetic risk for mental illness shapes economic outcomes
 
 ### Genetic and Economic Interaction in Health Formation: The Case of Obesity
 
-<p class="paper-meta">with Pietro Biroli and Qianyu Yang</p>
+<p class="paper-meta">with <a href="https://sites.google.com/site/pietrobiroli/">Pietro Biroli</a> and <a href="https://www.econ.cam.ac.uk/people/postgraduates/qianyu-yang">Qianyu Yang</a></p>
 
 <details class="abstract">
 <summary>Summary</summary>

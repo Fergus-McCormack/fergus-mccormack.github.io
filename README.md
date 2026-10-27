@@ -52,6 +52,12 @@ What is already in place:
 - schema.org JSON-LD structured data: `Person`, `WebSite`, `ProfilePage`, and a
   `ScholarlyArticle` entry per paper (from `quartz/site.ts`).
 - `sitemap.xml` (generated) and `robots.txt` (`content/robots.txt`).
+- PDF document properties (title, author, keywords): Google uses the PDF title as the
+  search-result title, and a blank one shows up as the file name or stray first-page text.
+  The JMP source (`fulldraft_v11.tex`) sets them with `\hypersetup{pdftitle=..., pdfauthor=...}`;
+  any other paper's `.tex` should do the same before its PDF is uploaded here.
+- Co-author names link to their pages; the same URLs feed the paper structured data
+  (`coauthorUrls` in `quartz/site.ts`).
 - Fast, mobile-friendly static HTML with no tracking scripts; served over HTTPS.
 
 Things only the site owner can do (each one strengthens ranking for a name search):

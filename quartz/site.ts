@@ -78,6 +78,21 @@ export const site = {
     { text: "CV", slug: "cv" },
   ],
 
+  // Co-author web pages, keyed by the exact name used in `papers` below. They
+  // become the author "url" in the paper structured data. The visible links on
+  // content/index.md and content/research.md are written by hand: update both.
+  coauthorUrls: {
+    "Qianyu Yang": "https://www.econ.cam.ac.uk/people/postgraduates/qianyu-yang",
+    "Robert Campbell": "https://www.ndph.ox.ac.uk/team/robert-campbell",
+    "Benjamin Woolf":
+      "https://www.bristol.ac.uk/people/person/Benjamin-Woolf-01b218b7-7fa9-475a-be66-39d19a06957b/",
+    "Alan Piper": "https://business.leeds.ac.uk/faculty/staff/1465/dr-alan-piper",
+    "Stephanie von Hinke":
+      "https://www.bristol.ac.uk/person/Stephanie-von%20Hinke-a30410d8-92d8-4d82-b46a-4085a3e3a94a/",
+    "Eivind Ystrøm": "https://www.sv.uio.no/psi/english/people/academic/eivindy/",
+    "Pietro Biroli": "https://sites.google.com/site/pietrobiroli/",
+  } as Record<string, string>,
+
   // Stable file names: these URLs are cited in the CV and applications, so do
   // not rename the PDFs; overwrite them in content/papers/ instead.
   cvPdf: "papers/McCormack_CV.pdf",

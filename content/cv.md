@@ -11,7 +11,7 @@ The PDF is the authoritative version and includes contact details for my referen
 
 ## Education
 
-<div class="cv-entry"><span><strong>University of Cambridge</strong>, PhD in Economics<span class="cv-sub">Advisors: Eric French and Weilong Zhang. Research visit at the University of Oslo (October–November 2025), hosted by Eivind Ystrøm.</span></span><span class="cv-date">2022–present</span></div>
+<div class="cv-entry"><span><strong>University of Cambridge</strong>, PhD in Economics<span class="cv-sub">Advisors: Eric French and Weilong Zhang. Research visit at the University of Oslo (October–November 2025), hosted by <a href="https://www.sv.uio.no/psi/english/people/academic/eivindy/">Eivind Ystrøm</a>.</span></span><span class="cv-date">2022–present</span></div>
 
 <div class="cv-entry"><span><strong>University of Cambridge</strong>, MPhil in Economic Research<span class="cv-sub">Distinction</span></span><span class="cv-date">2020–2021</span></div>
 

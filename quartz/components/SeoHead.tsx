@@ -105,7 +105,13 @@ export default (() => {
           genre: paper.genre,
           inLanguage: "en",
           author: paper.authors.map((a) =>
-            a === site.name ? { "@id": personId } : { "@type": "Person", name: a },
+            a === site.name
+              ? { "@id": personId }
+              : {
+                  "@type": "Person",
+                  name: a,
+                  ...(site.coauthorUrls[a] ? { url: site.coauthorUrls[a] } : {}),
+                },
           ),
           ...(paper.url
             ? {
