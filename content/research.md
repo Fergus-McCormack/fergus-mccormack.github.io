@@ -53,7 +53,7 @@ My research studies how genetic risk for mental illness shapes economic outcomes
 
 ### The Genetic Child Penalty: Evidence from the UK and Norway
 
-<p class="paper-meta">with Emil Sørensen, <a href="https://www.bristol.ac.uk/person/Stephanie-von%20Hinke-a30410d8-92d8-4d82-b46a-4085a3e3a94a/">Stephanie von Hinke</a>, and <a href="https://www.sv.uio.no/psi/english/people/academic/eivindy/">Eivind Ystrøm</a></p>
+<p class="paper-meta">with <a href="https://emilnormark.dk/">Emil Sørensen</a>, <a href="https://www.bristol.ac.uk/person/Stephanie-von%20Hinke-a30410d8-92d8-4d82-b46a-4085a3e3a94a/">Stephanie von Hinke</a>, and <a href="https://www.sv.uio.no/psi/english/people/academic/eivindy/">Eivind Ystrøm</a></p>
 
 <details class="abstract">
 <summary>Abstract</summary>

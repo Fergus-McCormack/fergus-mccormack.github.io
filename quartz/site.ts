@@ -89,6 +89,7 @@ export const site = {
     "Alan Piper": "https://business.leeds.ac.uk/faculty/staff/1465/dr-alan-piper",
     "Stephanie von Hinke":
       "https://www.bristol.ac.uk/person/Stephanie-von%20Hinke-a30410d8-92d8-4d82-b46a-4085a3e3a94a/",
+    "Emil Sørensen": "https://emilnormark.dk/",
     "Eivind Ystrøm": "https://www.sv.uio.no/psi/english/people/academic/eivindy/",
     "Pietro Biroli": "https://sites.google.com/site/pietrobiroli/",
   } as Record<string, string>,
