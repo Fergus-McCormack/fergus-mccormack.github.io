@@ -104,7 +104,7 @@ export const site = {
       name: "The “Depression Trap”: Genetic Risk, Labor Supply, and the Case for Precision Psychiatry",
       authors: ["Fergus McCormack", "Qianyu Yang"],
       url: "https://fergus-mccormack.github.io/papers/McCormack_JMP_The_Depression_Trap.pdf",
-      date: "2026-11-06",
+      date: "2026-11-09",
       genre: "Job market paper",
       description:
         "Why is depression linked to persistent non-employment, and how can treatment be better targeted to improve mental health and employment outcomes? Using longitudinal UK panel data, we provide evidence for the “depression trap”: a self-reinforcing cycle of poor mental health and non-employment, using event studies of depression recurrences and redundancies (layoffs). We link our panel to molecular genetic data and show that individuals with high genetic risk for depression are significantly more likely to enter the depression trap and less likely to leave it. We evaluate allocating treatment by genetic risk using a structural life-cycle model of health, labor supply and treatment in which employment decisions reinforce mental-health shocks. We find that targeting therapy towards individuals with high genetic risk for depression improves the clinical efficacy of treatment by 29%. Furthermore, we find that the information provided by genetic risk generates a net fiscal surplus sufficient to finance the cost of universal genotyping, by increasing employment through improved treatment allocation.",
