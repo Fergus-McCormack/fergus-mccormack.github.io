@@ -82,7 +82,7 @@ export const site = {
   // become the author "url" in the paper structured data. The visible links on
   // content/index.md and content/research.md are written by hand: update both.
   coauthorUrls: {
-    "Qianyu Yang": "https://www.econ.cam.ac.uk/people/postgraduates/qianyu-yang",
+    "Qianyu Yang": "https://cstu-yqy.github.io/",
     "Robert Campbell": "https://www.ndph.ox.ac.uk/team/robert-campbell",
     "Benjamin Woolf":
       "https://www.bristol.ac.uk/people/person/Benjamin-Woolf-01b218b7-7fa9-475a-be66-39d19a06957b/",

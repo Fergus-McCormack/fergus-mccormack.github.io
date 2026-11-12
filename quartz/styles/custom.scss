@@ -253,6 +253,18 @@ article a.btn-primary {
   margin: 0.4rem 0 0 0 !important;
 }
 
+// Per-paper list of talks, shown under the abstract on the Research page
+.paper-talks {
+  margin: 0.6rem 0 0 0 !important;
+  color: var(--gray);
+  font-size: 0.93rem;
+
+  .talks-label {
+    font-weight: 600;
+    color: var(--secondary);
+  }
+}
+
 details.abstract {
   margin: 0.2rem 0 0 0;
 

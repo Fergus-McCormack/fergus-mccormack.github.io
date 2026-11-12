@@ -13,9 +13,11 @@ My research studies how genetic risk for mental illness shapes economic outcomes
 
 ### [The “Depression Trap”: Genetic Risk, Labor Supply, and the Case for Precision Psychiatry](papers/McCormack_JMP_The_Depression_Trap.pdf)
 
-<p class="paper-meta">with <a href="https://www.econ.cam.ac.uk/people/postgraduates/qianyu-yang">Qianyu Yang</a> &middot; <a href="papers/McCormack_JMP_The_Depression_Trap.pdf">Download PDF</a></p>
+<p class="paper-meta">with <a href="https://cstu-yqy.github.io/">Qianyu Yang</a> &middot; <a href="papers/McCormack_JMP_The_Depression_Trap.pdf">Download PDF</a></p>
 
 <p class="paper-abstract">Why is depression linked to persistent non-employment, and how can treatment be better targeted to improve mental health and employment outcomes? Using longitudinal UK panel data, we provide evidence for the “depression trap”: a self-reinforcing cycle of poor mental health and non-employment, using event studies of depression recurrences and redundancies (layoffs). We link our panel to molecular genetic data and show that individuals with high genetic risk for depression are significantly more likely to enter the depression trap and less likely to leave it. We evaluate allocating treatment by genetic risk using a structural life-cycle model of health, labor supply and treatment in which employment decisions reinforce mental-health shocks. We find that targeting therapy towards individuals with high genetic risk for depression improves the clinical efficacy of treatment by 29%. Furthermore, we find that the information provided by genetic risk generates a net fiscal surplus sufficient to finance the cost of universal genotyping, by increasing employment through improved treatment allocation.</p>
+
+<p class="paper-talks"><span class="talks-label">Presentations:</span> EEA-ESEM Congress of the European Economic Association; CEPR Longevity and Ageing Conference; ESSGN European Social Science Genetics Network Conference; EDGE Jamboree; MiSoC Workshop on Mental Health and the Labour Market; Annual Health Econometrics Workshop; USC CESR Seminar Series in Social Science Genetics; UCL QSS and CLS Seminar Series; LSE Wellbeing Seminar Series; Cambridge Applied Micro PhD Workshop; Cambridge Labor/Public Reading Group</p>
 
 </div>
 
@@ -32,6 +34,8 @@ My research studies how genetic risk for mental illness shapes economic outcomes
 <p>Depression, poor educational attainment, poor health, and unemployment form a correlated web that reduces human flourishing, but the causal links between them are unclear. We estimate the causal effect of depressive symptoms on educational and labour market outcomes by triangulating four research designs across economic, clinical, and genomic data. In UK longitudinal data (305,686 person-wave observations), a one standard-deviation (s.d.) rise in depressive symptoms lowers income in the following wave by 0.036 s.d. and employment by 0.044 s.d.; instrumenting symptoms with bereavement gives larger but less precise short-run estimates. Two genetic designs capture lifetime liability: two-sample Mendelian randomization on summary statistics from up to 2.1 million individuals, and a polygenic index instrument in the genotyped UKHLS subsample. In these designs, genetic liability to depression lowers income by 0.24–0.49 s.d., educational attainment by 0.14–0.46 s.d., and occupational status by 0.36–0.65 s.d. The education and occupation penalties fall almost entirely on women, while most of the income penalty for both sexes runs through employment rather than pay. The economic cost of depression accumulates over the life course, so treatment before labour-market entry may yield the largest economic returns.</p>
 </details>
 
+<p class="paper-talks"><span class="talks-label">Presentations:</span> Economics of Mental Health Workshop; ESSGN European Social Science Genetics Network Conference; University of Oslo PROMENTA; LSE Wellbeing Seminar Series; Darwin College Social Science Seminar</p>
+
 </div>
 
 <div class="paper">
@@ -44,6 +48,8 @@ My research studies how genetic risk for mental illness shapes economic outcomes
 <summary>Abstract</summary>
 <p>Life satisfaction is U-shaped over the life cycle, and roughly 40% of the variation in wellbeing is heritable. We ask how genetic predispositions for wellbeing interact with ageing. Matching a wellbeing polygenic index (PGI) to panel data from the British Household Panel Survey and the UK Household Longitudinal Study, we establish three results. First, the PGI predicts substantial and statistically significant differences in life satisfaction at <em>every</em> point in the life cycle. Second, the U-shaped age profile of wellbeing holds <em>within</em> both high- and low-PGI groups. Third, individuals with a lower PGI face a <em>more pronounced</em> U-shape, so the genetic wellbeing gap is widest in middle age and narrower at the tails. The first two findings are robust to a within-family design that controls for parental PGIs, while the third fails to replicate in the within-family sample. A mediation analysis shows that declining physical health accounts for roughly one-third of the age variation in the gap.</p>
 </details>
+
+<p class="paper-talks"><span class="talks-label">Presentations:</span> STATEC Measuring Progress Workshop (Luxembourg; presented by co-author)</p>
 
 </div>
 
@@ -60,13 +66,15 @@ My research studies how genetic risk for mental illness shapes economic outcomes
 <p>Does the child penalty reinforce genetic inequality? Using Norwegian administrative data linked to molecular genetic information, we estimate gene–environment (G×E) event studies around first birth. Women below the median polygenic index for educational attainment experience an employment penalty 1.5 percentage points larger initially, widening to 4 percentage points after ten years. The gap persists controlling for education, implying mechanisms beyond schooling. UK household panel data corroborate the pattern. Policies reducing the child penalty generate a double dividend: improving gender equality <em>and</em> attenuating the economic consequences of the genetic lottery.</p>
 </details>
 
+<p class="paper-talks"><span class="talks-label">Presentations:</span> University of Oslo PROMENTA</p>
+
 </div>
 
 <div class="paper">
 
 ### Genetic and Economic Interaction in Health Formation: The Case of Obesity
 
-<p class="paper-meta">with <a href="https://sites.google.com/site/pietrobiroli/">Pietro Biroli</a> and <a href="https://www.econ.cam.ac.uk/people/postgraduates/qianyu-yang">Qianyu Yang</a></p>
+<p class="paper-meta">with <a href="https://sites.google.com/site/pietrobiroli/">Pietro Biroli</a> and <a href="https://cstu-yqy.github.io/">Qianyu Yang</a></p>
 
 <details class="abstract">
 <summary>Summary</summary>

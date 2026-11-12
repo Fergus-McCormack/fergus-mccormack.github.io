@@ -43,7 +43,7 @@ My [job market paper](research#job-market-paper), working papers, and work in pr
 
 **Invited seminars and workshops**
 
-**2026:** USC CESR Seminar Series in Social Science Genetics\*; UCL QSS and CLS Seminar Series; MiSoC Workshop on Mental Health and the Labour Market; LSE Wellbeing Seminar Series. <span class="cv-sub">\* scheduled</span>
+**2026:** USC CESR Seminar Series in Social Science Genetics; UCL QSS and CLS Seminar Series; MiSoC Workshop on Mental Health and the Labour Market; LSE Wellbeing Seminar Series.
 
 **2025:** University of Oslo PROMENTA (×2); LSE Wellbeing Seminar Series.
 
