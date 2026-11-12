@@ -22,7 +22,7 @@ description: "Fergus McCormack is a PhD candidate in Economics at the University
 
 ## About
 
-I am a PhD candidate in Economics at the [University of Cambridge](https://www.econ.cam.ac.uk/), supervised by [Eric French](https://www.econ.cam.ac.uk/people/academic/eric-french) and advised by [Weilong Zhang](https://www.econ.cam.ac.uk/people/academic/weilong-zhang). My research lies at the intersection of **health economics**, **labor economics**, and **genoeconomics**. I study how genetic risk for mental illness shapes labor supply, health, and treatment decisions over the life cycle, and what this implies for the design of mental health policy.
+I am a PhD candidate in Economics at the [University of Cambridge](https://www.econ.cam.ac.uk/), supervised by [Eric French](https://sites.google.com/site/ericfrenchecon/) and advised by [Weilong Zhang](https://www.weilongzhang.com/). My research lies at the intersection of **health economics**, **labor economics**, and **genoeconomics**. I study how genetic risk for mental illness shapes labor supply, health, and treatment decisions over the life cycle, and what this implies for the design of mental health policy.
 
 My work combines structural life-cycle models with panel data methods and Mendelian randomization, drawing on UK household panel data (Understanding Society), the UK Biobank, and Norwegian administrative data linked to molecular genetic information.
 
@@ -45,9 +45,9 @@ Working papers and work in progress are listed on the [Research](research) page.
 ## References
 
 <div class="references-grid">
-<div><p><strong><a href="https://www.econ.cam.ac.uk/people/academic/eric-french">Eric French</a></strong><br>Montague Burton Professor of Industrial Relations and Labour Economics<br>University of Cambridge</p></div>
-<div><p><strong><a href="https://www.econ.cam.ac.uk/people/academic/weilong-zhang">Weilong Zhang</a></strong><br>Associate Professor of Economics<br>University of Cambridge</p></div>
-<div><p><strong><a href="https://www.econ.cam.ac.uk/people/academic/kai-liu">Kai Liu</a></strong><br>Professor of Economics<br>University of Cambridge</p></div>
+<div><p><strong><a href="https://sites.google.com/site/ericfrenchecon/">Eric French</a></strong><br>Montague Burton Professor of Industrial Relations and Labour Economics<br>University of Cambridge</p></div>
+<div><p><strong><a href="https://www.weilongzhang.com/">Weilong Zhang</a></strong><br>Associate Professor of Economics<br>University of Cambridge</p></div>
+<div><p><strong><a href="https://sites.google.com/site/richardkailiu/">Kai Liu</a></strong><br>Professor of Economics<br>University of Cambridge</p></div>
 </div>
 
 Contact details for my references are given in my [CV](cv).

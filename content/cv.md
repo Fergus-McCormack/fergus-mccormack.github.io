@@ -92,9 +92,9 @@ Lecturer for the Downing College Summer Programme (University of Cambridge) and 
 ## References
 
 <div class="references-grid">
-<div><p><strong><a href="https://www.econ.cam.ac.uk/people/academic/eric-french">Eric French</a></strong><br>Montague Burton Professor of Industrial Relations and Labour Economics<br>University of Cambridge</p></div>
-<div><p><strong><a href="https://www.econ.cam.ac.uk/people/academic/weilong-zhang">Weilong Zhang</a></strong><br>Associate Professor of Economics<br>University of Cambridge</p></div>
-<div><p><strong><a href="https://www.econ.cam.ac.uk/people/academic/kai-liu">Kai Liu</a></strong><br>Professor of Economics<br>University of Cambridge</p></div>
+<div><p><strong><a href="https://sites.google.com/site/ericfrenchecon/">Eric French</a></strong><br>Montague Burton Professor of Industrial Relations and Labour Economics<br>University of Cambridge</p></div>
+<div><p><strong><a href="https://www.weilongzhang.com/">Weilong Zhang</a></strong><br>Associate Professor of Economics<br>University of Cambridge</p></div>
+<div><p><strong><a href="https://sites.google.com/site/richardkailiu/">Kai Liu</a></strong><br>Professor of Economics<br>University of Cambridge</p></div>
 </div>
 
 Email addresses for my references are given in the [PDF version of my CV](papers/McCormack_CV.pdf).
