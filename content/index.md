@@ -48,6 +48,7 @@ Working papers and work in progress are listed on the [Research](research) page.
 <div><p><strong><a href="https://sites.google.com/site/ericfrenchecon/">Eric French</a></strong><br>Montague Burton Professor of Industrial Relations and Labour Economics<br>University of Cambridge</p></div>
 <div><p><strong><a href="https://www.weilongzhang.com/">Weilong Zhang</a></strong><br>Associate Professor of Economics<br>University of Cambridge</p></div>
 <div><p><strong><a href="https://sites.google.com/site/richardkailiu/">Kai Liu</a></strong><br>Professor of Economics<br>University of Cambridge</p></div>
+<div><p><strong><a href="https://scholar.google.com/citations?user=1mMkgboAAAAJ">Benjamin Woolf</a></strong><br>Genetic Epidemiologist<br>National Heart and Lung Institute, Imperial College London, and MRC Integrative Epidemiology Unit, University of Bristol</p></div>
 </div>
 
 Contact details for my references are given in my [CV](cv).

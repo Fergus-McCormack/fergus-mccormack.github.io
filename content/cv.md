@@ -7,7 +7,7 @@ description: "Curriculum vitae of Fergus McCormack, PhD candidate in Economics a
 
 <p class="hero-actions"><a class="btn btn-primary" href="papers/McCormack_CV.pdf">Download CV (PDF)</a></p>
 
-The PDF is the authoritative version and includes contact details for my references. Last updated October 2026.
+The PDF is the authoritative version and includes contact details for my references. Last updated November 2026.
 
 ## Education
 
@@ -95,6 +95,7 @@ Lecturer for the Downing College Summer Programme (University of Cambridge) and 
 <div><p><strong><a href="https://sites.google.com/site/ericfrenchecon/">Eric French</a></strong><br>Montague Burton Professor of Industrial Relations and Labour Economics<br>University of Cambridge</p></div>
 <div><p><strong><a href="https://www.weilongzhang.com/">Weilong Zhang</a></strong><br>Associate Professor of Economics<br>University of Cambridge</p></div>
 <div><p><strong><a href="https://sites.google.com/site/richardkailiu/">Kai Liu</a></strong><br>Professor of Economics<br>University of Cambridge</p></div>
+<div><p><strong><a href="https://scholar.google.com/citations?user=1mMkgboAAAAJ">Benjamin Woolf</a></strong><br>Genetic Epidemiologist<br>National Heart and Lung Institute, Imperial College London, and MRC Integrative Epidemiology Unit, University of Bristol</p></div>
 </div>
 
 Email addresses for my references are given in the [PDF version of my CV](papers/McCormack_CV.pdf).

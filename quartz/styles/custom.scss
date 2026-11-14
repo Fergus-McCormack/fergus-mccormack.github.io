@@ -323,7 +323,7 @@ details.abstract {
 // ---------- References ----------
 .references-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(2, minmax(0, 1fr)); // four referees as a 2x2 grid, as in the PDF CV
   gap: 1.3rem;
   margin: 0 0 1rem 0;
 
